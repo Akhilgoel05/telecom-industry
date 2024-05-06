@@ -10,3 +10,6 @@ Plan P1,P2,P3,P11 contributes majority of our Plan revenue and P1 is our best pl
 
 <img width="559" alt="image" src="https://github.com/Akhilgoel05/telecom-industry/assets/53372534/2b634ec9-bd6d-4af5-9fb6-4ee278b45369">
 
+<img width="554" alt="image" src="https://github.com/Akhilgoel05/telecom-industry/assets/53372534/9d1c7322-9abe-4746-8bec-06e7403795d8">
+
+<img width="560" alt="image" src="https://github.com/Akhilgoel05/telecom-industry/assets/53372534/45c3a091-1d80-4561-9351-5d2902224a8c">
