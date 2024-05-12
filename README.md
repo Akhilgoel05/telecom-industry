@@ -12,6 +12,8 @@ After 5G our Revenue and Active users have been decreased but unsubscribed and A
 
 Plan P1,P2,P3,P11 contributes majority of our Plan revenue and P1 is our best plan till date it has ranked 1 before and after 5G. Comapny must launch more plans like P1 and P11 keeping in mind the price factor point to increase our active users and to attract new users as well.
 
+Delhi, Chennai and Kolkata are in top 5 cities generating maximum revenue for the company but experience -ve revenue growth after 5G hence should more be more focussed on.
+
 Below are the snapshots of the Power BI report created:-
 
 
